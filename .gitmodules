@@ -1,0 +1,3 @@
+[submodule "bin/cookbook"]
+	path = bin/cookbook
+	url = https://github.com/bluesky-social/cookbook.git
