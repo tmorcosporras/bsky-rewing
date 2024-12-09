@@ -6,6 +6,9 @@ __pycache__/
 # Ignore virtual environment
 brenv/
 
+# Ignore resources (to prevent security issues)
+rsc/
+
 # Ignore distribution and packaging files
 *.egg-info/
 dist/
