@@ -1,3 +1,3 @@
-from .bsky_rewing_pkg import __init__
+from bsky_rewing_pkg import get_jsons
 
-get_jsons("tmorcosporras.bsky.social")
+get_jsons("justtegan.bsky.social")
